@@ -1,0 +1,56 @@
+.sname{
+	 font-family: 'Russo One', sans-serif;
+}
+li{
+	margin-left: 5%;
+}
+.space{
+	padding-right: 1.8em;
+}
+a{
+	color: black;
+}
+a:hover{
+	background-color: #963930;
+	color: white;
+	transition: 0.5s;
+	border-radius: 40px;
+}
+.carousel-inner img {
+      width: 100%;
+      height: 500px;
+  }
+  .navcolor{
+  	background-color: #f8f9fa;
+  	position: sticky;
+
+  }
+  .paddingnav{
+  	padding-left: 10%;
+
+  }
+  .footer{
+      margin-top: 5%;
+  width: 100%;
+  background-color:#f8f9fa;
+  color: black;
+  	}
+  	.padd{
+     padding-top:2%;
+  	}
+  	.white{
+  		color: black;
+  	}
+.padding1{
+	padding-top: 50%;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+
+.margin{
+  margin-left: -20px;
+}
